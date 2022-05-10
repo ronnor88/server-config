@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: <#773934>Stripped Mangrove Wood
-    customModelData: 5
+    customModelData: 2005
 - !<blocky:block>
   blockType: CUBE
   blockId: 9

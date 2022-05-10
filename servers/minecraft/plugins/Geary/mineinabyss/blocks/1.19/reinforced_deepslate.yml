@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: <#474d49>Reinforced Deepslate
-    customModelData: 11
+    customModelData: 2011
 - !<blocky:block>
   blockType: CUBE
   blockId: 15

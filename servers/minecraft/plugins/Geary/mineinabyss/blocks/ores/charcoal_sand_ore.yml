@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: <#785F34>Charcoal Sand Ore
-    customModelData: 1
+    customModelData: 2001
 - !<blocky:block>
   blockType: CUBE
   blockId: 1

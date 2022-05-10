@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: <#403e41>Muddy Mangrove Roots
-    customModelData: 10
+    customModelData: 2010
 - !<blocky:block>
   blockType: CUBE
   blockId: 14

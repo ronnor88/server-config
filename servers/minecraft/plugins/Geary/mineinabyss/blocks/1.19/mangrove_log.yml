@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: <#773934>Mangrove Log
-    customModelData: 2
+    customModelData: 2002
 - !<blocky:block>
   blockType: CUBE
   blockId: 2

@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: <#042c35>Sculk Catalyst
-    customModelData: 13
+    customModelData: 2013
 - !<blocky:block>
   blockType: CUBE
   blockId: 17

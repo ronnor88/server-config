@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: <#773934>Mangrove Wood
-    customModelData: 4
+    customModelData: 2004
 - !<blocky:block>
   blockType: CUBE
   blockId: 8

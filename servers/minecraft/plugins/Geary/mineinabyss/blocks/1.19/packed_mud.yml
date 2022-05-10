@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: <#403e41>Packed Mud
-    customModelData: 9
+    customModelData: 2009
 - !<blocky:block>
   blockType: CUBE
   blockId: 13

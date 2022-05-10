@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: <#98c98c>Verdant Froglight
-    customModelData: 17
+    customModelData: 2017
 - !<blocky:block>
   blockType: CUBE
   blockId: 21
