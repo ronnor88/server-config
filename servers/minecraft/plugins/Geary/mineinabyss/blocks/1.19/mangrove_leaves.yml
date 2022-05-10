@@ -1,9 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: CHORUS_PLANT
+    type: PAPER
     displayName: <#773934>Mangrove Leaves
-    customModelData: 1
+    customModelData: 4001
 - !<blocky:block>
   blockType: TRANSPARENT
   blockId: 1
