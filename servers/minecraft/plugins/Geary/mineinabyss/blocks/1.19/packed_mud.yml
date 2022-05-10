@@ -1,0 +1,19 @@
+- !<looty:player_instanced_item> { }
+- !<looty:type>
+  item:
+    type: NOTE_BLOCK
+    displayName: <#403e41>Packed Mud
+    customModelData: 9
+- !<blocky:block>
+  blockType: CUBE
+  blockId: 13
+- !<blocky:sound>
+  placeSound: BLOCK_WOOD_PLACE
+  breakSound: BLOCK_WOOD_BREAK
+- !<blocky:info>
+  isUnbreakable: false
+  blockBreakTime: 10
+  blockDrop:
+    - item:
+        prefab: mineinabyss:packed_mud
+      minAmount: 1

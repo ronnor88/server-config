@@ -1,0 +1,21 @@
+- !<looty:player_instanced_item> { }
+- !<looty:type>
+  item:
+    type: NOTE_BLOCK
+    displayName: <#f3dd94>Ochre Froglight
+    customModelData: 15
+- !<blocky:block>
+  blockType: CUBE
+  blockId: 19
+- !<blocky:light>
+  lightLevel: 15
+- !<blocky:sound>
+  placeSound: BLOCK_WOOD_PLACE
+  breakSound: BLOCK_WOOD_BREAK
+- !<blocky:info>
+  isUnbreakable: false
+  blockBreakTime: 10
+  blockDrop:
+    - item:
+        prefab: mineinabyss:ochre_froglight
+      minAmount: 1

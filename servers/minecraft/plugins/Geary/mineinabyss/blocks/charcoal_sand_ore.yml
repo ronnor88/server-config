@@ -1,0 +1,28 @@
+- !<looty:player_instanced_item> { }
+- !<looty:type>
+  item:
+    type: NOTE_BLOCK
+    displayName: <#785F34>Charcoal Sand Ore
+    customModelData: 1
+- !<blocky:block>
+  blockType: CUBE
+  blockId: 1
+- !<blocky:light>
+  lightLevel: 7
+- !<blocky:sound>
+  placeSound: BLOCK_WOOD_PLACE
+  breakSound: BLOCK_WOOD_BREAK
+- !<blocky:info>
+  isUnbreakable: false
+  blockBreakTime: 10
+  blockDrop:
+    - item:
+        prefab: mineinabyss:abyssal_snail_gunk
+      minAmount: 1
+      maxAmount: 3
+      exp: 100
+      affectedByFortune: false
+      affectedBySilkTouch: true
+      silkTouchedDrop:
+        prefab: mineinabyss:abyssal_snail_shell
+

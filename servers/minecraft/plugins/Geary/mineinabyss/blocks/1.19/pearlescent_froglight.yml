@@ -1,0 +1,21 @@
+- !<looty:player_instanced_item> { }
+- !<looty:type>
+  item:
+    type: NOTE_BLOCK
+    displayName: <#ceb6c7>Pearlescent Froglight
+    customModelData: 16
+- !<blocky:block>
+  blockType: CUBE
+  blockId: 20
+- !<blocky:light>
+  lightLevel: 15
+- !<blocky:sound>
+  placeSound: BLOCK_WOOD_PLACE
+  breakSound: BLOCK_WOOD_BREAK
+- !<blocky:info>
+  isUnbreakable: false
+  blockBreakTime: 10
+  blockDrop:
+    - item:
+        prefab: mineinabyss:pearlescent_froglight
+      minAmount: 1

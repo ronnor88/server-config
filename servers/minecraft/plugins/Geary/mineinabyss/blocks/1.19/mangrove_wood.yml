@@ -1,0 +1,19 @@
+- !<looty:player_instanced_item> { }
+- !<looty:type>
+  item:
+    type: NOTE_BLOCK
+    displayName: <#773934>Mangrove Wood
+    customModelData: 4
+- !<blocky:block>
+  blockType: CUBE
+  blockId: 8
+- !<blocky:sound>
+  placeSound: BLOCK_WOOD_PLACE
+  breakSound: BLOCK_WOOD_BREAK
+- !<blocky:info>
+  isUnbreakable: false
+  blockBreakTime: 10
+  blockDrop:
+    - item:
+        prefab: mineinabyss:mangrove_wood
+      minAmount: 1

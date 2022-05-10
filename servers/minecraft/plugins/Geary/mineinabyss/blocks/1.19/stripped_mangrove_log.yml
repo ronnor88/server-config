@@ -1,0 +1,23 @@
+- !<looty:player_instanced_item> { }
+- !<looty:type>
+  item:
+    type: NOTE_BLOCK
+    displayName: <#773934>Stripped Mangrove Log
+    customModelData: 3
+- !<blocky:block>
+  blockType: CUBE
+  blockId: 5
+- !<blocky:directional>
+  yBlockId: 5
+  xBlockId: 6
+  zBlockId: 7
+- !<blocky:sound>
+  placeSound: BLOCK_WOOD_PLACE
+  breakSound: BLOCK_WOOD_BREAK
+- !<blocky:info>
+  isUnbreakable: false
+  blockBreakTime: 10
+  blockDrop:
+    - item:
+        prefab: mineinabyss:mangrove_log
+      minAmount: 1
