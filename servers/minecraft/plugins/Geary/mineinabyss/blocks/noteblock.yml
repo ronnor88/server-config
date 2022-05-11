@@ -1,0 +1,19 @@
+- !<looty:player_instanced_item> { }
+- !<looty:type>
+  item:
+    type: NOTE_BLOCK
+    displayName: Note Block
+- !<blocky:vanilla_noteblock>
+- !<blocky:block>
+  blockType: CUBE
+  blockId: 0
+- !<blocky:sound>
+  placeSound: BLOCK_WOOD_PLACE
+  breakSound: BLOCK_WOOD_BREAK
+- !<blocky:info>
+  isUnbreakable: false
+  blockBreakTime: 10
+  blockDrop:
+    - item:
+        prefab: mineinabyss:noteblock
+      minAmount: 1
