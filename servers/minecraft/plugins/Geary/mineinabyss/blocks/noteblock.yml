@@ -1,8 +1,9 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: NOTE_BLOCK
+    type: PAPER
     displayName: Note Block
+    customModelData: 2000
 - !<blocky:vanilla_noteblock>
 - !<blocky:block>
   blockType: CUBE
