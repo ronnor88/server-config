@@ -1,0 +1,19 @@
+- !<looty:player_instanced_item> { }
+- !<looty:type>
+  item:
+    type: STICK
+    displayName: <#e6c186>Crate 1
+    customModelData: 2018
+- !<blocky:block>
+  blockType: CUBE
+  blockId: 22
+- !<blocky:sound>
+  placeSound: BLOCK_WOOD_PLACE
+  breakSound: BLOCK_WOOD_BREAK
+- !<blocky:info>
+  isUnbreakable: false
+  blockBreakTime: 10
+  blockDrop:
+    - item:
+        prefab: mineinabyss:crate1
+      minAmount: 1
