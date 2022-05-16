@@ -1,7 +1,7 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: PAPER
+    type: STICK
     displayName: <#98c98c>Verdant Froglight
     customModelData: 2017
 - !<blocky:block>

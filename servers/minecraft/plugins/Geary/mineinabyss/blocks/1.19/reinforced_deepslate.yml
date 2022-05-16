@@ -1,7 +1,7 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: PAPER
+    type: STICK
     displayName: <#474d49>Reinforced Deepslate
     customModelData: 2011
 - !<blocky:block>

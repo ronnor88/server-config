@@ -1,7 +1,7 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: PAPER
+    type: STICK
     displayName: <#7a4e48>Foliage 1
     customModelData: 3001
 - !<blocky:block>

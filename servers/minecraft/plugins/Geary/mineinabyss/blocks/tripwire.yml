@@ -2,14 +2,14 @@
 - !<looty:type>
   item:
     type: STICK
-    displayName: <#7a4e48>Foliage 4
-    customModelData: 3004
+    displayName: <#7a4e48>Foliage 1
+    customModelData: 3000
 - !<blocky:block>
   blockType: GROUND
-  blockId: 4
+  blockId: 0
 - !<blocky:info>
   blockBreakTime: 2
   blockDrop:
     - item:
-        prefab: mineinabyss:foliage4
+        prefab: mineinabyss:foliage1
       minAmount: 1

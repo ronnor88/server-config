@@ -1,14 +1,12 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: PAPER
+    type: STICK
     displayName: <#785F34>Charcoal Sand Ore
     customModelData: 2001
 - !<blocky:block>
   blockType: CUBE
   blockId: 1
-- !<blocky:light>
-  lightLevel: 7
 - !<blocky:sound>
   placeSound: BLOCK_WOOD_PLACE
   breakSound: BLOCK_WOOD_BREAK

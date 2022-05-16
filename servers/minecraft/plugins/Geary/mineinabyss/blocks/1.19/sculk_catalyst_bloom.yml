@@ -1,7 +1,7 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: PAPER
+    type: STICK
     displayName: <#042c35>Sculk Catalyst Bloom
     customModelData: 2014
 - !<blocky:block>

@@ -12,25 +12,7 @@ x-particles-vomit: &vomit
   offset: 3s
   particles: [SLIME]
 features:
-  - !<guilds>
-    guildChatPrefix: ":survival::guildchat: "
-    guildNameMaxLength: 30
-    guildNameBannedWords:
-      - ([^a-zA-Z\s])
-      - (n[i1]gg?[e3]r[s\$]?)
-      - (.?fai*g+[oei1]*t*[sz]*)
-      - ([nN]+[aA4@]+[sSzZ]+[iI1l])
-  - !<hub_storage>
-  - !<layers>
-  - !<survival_pvp>
-  - !<anticheese>
-  - !<curse>
-  - !<keepinv>
-  - !<relics>
-  - !<exp>
-  - !<lock_armorstand>
-  - !<patreon>
-  - !<shopkeeper>
+  - !<all>
 layers:
   - name: <#FFA812>Orth
     sub: <#FFC421>City of the Great Pit

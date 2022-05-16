@@ -1,7 +1,7 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: PAPER
+    type: STICK
     displayName: <#773934>Stripped Mangrove Log
     customModelData: 2003
 - !<blocky:block>

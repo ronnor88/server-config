@@ -1,7 +1,7 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: PAPER
+    type: STICK
     displayName: <#403e41>Packed Mud
     customModelData: 2009
 - !<blocky:block>

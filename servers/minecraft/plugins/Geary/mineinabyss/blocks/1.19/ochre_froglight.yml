@@ -1,7 +1,7 @@
 - !<looty:player_instanced_item> { }
 - !<looty:type>
   item:
-    type: PAPER
+    type: STICK
     displayName: <#f3dd94>Ochre Froglight
     customModelData: 2015
 - !<blocky:block>
